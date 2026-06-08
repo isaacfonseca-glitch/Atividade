@@ -1,10 +1,7 @@
 # Tutoria 7 — Árvores Binárias de Busca
 
-**Aluno:** João Volkmann  
-**Disciplina:** Estrutura de Dados  
-
----
-
+**Aluno:** Isaac de Lima 
+ 
 ## Exercícios concluídos
 
 | Exercício | Descrição | Status |
@@ -15,7 +12,7 @@
 | 04 | Remoção (três casos) | ✅ |
 | 05 | Comparação busca sequencial × árvore | ✅ |
 
----
+
 
 ## Como compilar e executar
 
@@ -36,7 +33,7 @@ gcc exercicio-04/ex04.c -o ex04 && ./ex04
 gcc exercicio-05/ex05.c -o ex05 && ./ex05
 ```
 
----
+
 
 ## Respostas teóricas
 
@@ -64,7 +61,6 @@ formando uma linha em vez de uma árvore. A altura vira n.
 Árvores como AVL ou Rubro-Negra rebalanceiam automaticamente após cada
 inserção, garantindo altura O(log n) e busca eficiente em qualquer caso.
 
----
 
 ## Principais dificuldades
 
